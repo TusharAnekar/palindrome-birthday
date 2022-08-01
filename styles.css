@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+
+:root {
+    font-family: 'Playfair Display', serif;
+    --background-color: black;
+    --font-color: white;
+}
+
+body{
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
+
+div {
+    text-align: center;
+}
