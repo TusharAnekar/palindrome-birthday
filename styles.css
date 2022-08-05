@@ -14,3 +14,16 @@ body{
 div {
     text-align: center;
 }
+
+input {
+    padding: 0.5rem 0.5rem;
+    font-size: large;
+}
+
+button {
+    background-color: white;
+    color: black;
+    font-size: large;
+    padding: 0.5rem 0.5rem;
+    border-radius: 0.5rem;
+}
