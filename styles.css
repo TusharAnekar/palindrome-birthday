@@ -7,6 +7,8 @@
 }
 
 body{
+    background-image: url("images/birthday.jpg");
+    background-size: cover;
     background-color: var(--background-color);
     color: var(--font-color);
 }
@@ -26,4 +28,18 @@ button {
     font-size: large;
     padding: 0.5rem 0.5rem;
     border-radius: 0.5rem;
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;   
+}
+
+.footer-links {
+    text-decoration: none;
+    color: whitesmoke;
 }
