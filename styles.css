@@ -30,6 +30,11 @@ button {
     border-radius: 0.5rem;
 }
 
+h2 {
+    background-color: black;
+    padding: 5px;
+}
+
 footer {
     background-color: black;
     display: flex;
